@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" >Cronometro en Kotlin</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="btn_pausar">Pausar</string>
+    <string name="btn_zerar">Reiniciar</string>
+    <string name="btn_sair">Salir</string>
+</resources>
